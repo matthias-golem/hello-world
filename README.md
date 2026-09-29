@@ -1,2 +1,3 @@
-# hello-world
-Hello world repo
+# Hello world!
+
+Saying hi to the world
